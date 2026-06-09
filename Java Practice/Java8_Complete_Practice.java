@@ -811,31 +811,3 @@ public class Java8_Complete_Practice {
         System.out.println("=".repeat(60));
     }
 }
-
-/*
- * ============================================================
- * SELF-CHECK: JAVA 8 CONCEPTS COVERAGE SUMMARY
- * ============================================================
- *
- * ✅ Lambda Expressions          — Runnable, Callable, Comparator
- * ✅ Functional Interfaces       — Predicate, Function, BiFunction, Consumer
- * ✅ Method References           — Static, Instance, Constructor
- * ✅ Optional                    — of, ofNullable, isPresent, ifPresent, orElse
- * ✅ Stream basics               — filter, map, sorted, distinct, limit, skip, count
- * ✅ Stream terminal ops         — forEach, collect, reduce, findFirst, min, max, matchOps
- * ✅ Stream advanced             — flatMap, summaryStatistics, average, lazy evaluation
- * ✅ Collectors                  — partitioningBy, groupingBy, joining, toSet, counting
- * ✅ IntStream / numeric streams — range, rangeClosed, sum, average, array ops
- * ✅ String stream problems      — palindrome, anagram, char freq, non-repeated, toggle
- * ✅ List/Collection operations  — duplicates, common elements, removeIf, sort by length
- * ✅ Type casting quirks         — parseInt, narrowing, char arithmetic, increment ops
- * ✅ Threads with lambdas        — Runnable, Callable, ExecutorService basics
- * ✅ Prime check via noneMatch   — IntStream.range-based isPrime
- *
- * GAPS intentionally excluded (out of Java 8 scope):
- * — Streams with custom objects/POJO (Employee, Product) — add your own
- * — CompletableFuture             — Java 8 async programming (next level)
- * — Default & static interface methods — add if needed
- * — Date/Time API (java.time)     — LocalDate, LocalDateTime, DateTimeFormatter
- * ============================================================
- */
