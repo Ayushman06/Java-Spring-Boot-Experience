@@ -786,7 +786,8 @@ Ongoing:     → DSA practice: 2–3 LeetCode problems/week (Easy → Medium)
 
 > *"The expert in anything was once a beginner."* — Helen Hayes
 >
-> Thanks for stopping by!
+>
+Thanks for stopping by!
 
 This roadmap reflects lessons, resources, and concepts that I've found valuable throughout my Java and Spring Boot journey. Hopefully, it helps you save some time and discover a few useful learning paths.
 
